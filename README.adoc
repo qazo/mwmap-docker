@@ -1,0 +1,5 @@
+= mwmap-docker
+:author: Kwezilomso Mhaga
+:email: <kwezimhaga@live.com>
+
+Just docker scripts for link:https://github.com/MathisBullinger/mwmap[MathisBullinger's mwmap]
